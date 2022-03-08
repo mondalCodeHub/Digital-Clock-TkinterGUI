@@ -22,3 +22,4 @@ def digitalClockFunc():
 digitalClockFunc()
 # 
 root.mainloop()
+# Arup Mondal (@mondalCodeHub) 2022
